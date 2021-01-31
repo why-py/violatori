@@ -11,5 +11,6 @@ and if not, it creates this .txt file to prevent multiple parallel executions an
 
 decrypter will be added soon.
 
+***for educational purposes only****
 
 TELEGRAM CHANNEL : https://t.me/whypy
