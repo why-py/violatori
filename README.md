@@ -17,4 +17,6 @@ decrypter will be added soon.
 
 ***for educational purposes only***
 
-TELEGRAM CHANNEL : https://t.me/whypy
+
+
+TELEGRAM CHANNEL : https://t.me/why_py
